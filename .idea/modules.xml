@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Zoom.iml" filepath="$PROJECT_DIR$/Zoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZooPinch.iml" filepath="$PROJECT_DIR$/ZooPinch.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
